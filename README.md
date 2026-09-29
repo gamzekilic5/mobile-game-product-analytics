@@ -68,7 +68,7 @@ The retention uplift was statistically significant:
 
 The observed uplift also exceeded the predefined **+1.5 percentage point Minimum Detectable Effect (MDE)**.
 
-Therefore, the result was both **statistically significant and practically meaningful**.
+Therefore, the result is both **statistically significant and practically meaningful**.
 
 ---
 
